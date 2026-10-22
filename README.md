@@ -1,7 +1,7 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirzzn&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems&descAlignY=57&descSize=16&animation=fadeIn"
-    alt="Mirzzn profile banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirza&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems&descAlignY=57&descSize=16&animation=fadeIn"
+    alt="Mirza profile banner"
     width="100%"
   />
   <a href="https://git.io/typing-svg">
@@ -59,31 +59,31 @@ These are tools and languages I use or am actively learning — the list is a wo
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mirzahardcode/MirzaDev-OneCenter">📱 MirzaDev OneCenter</a></h3>
+      <h3><a href="https://github.com/mirzahardcode/MirzaDev-OneCenter">MirzaDev OneCenter</a></h3>
       <p>An Android hub app built with Kotlin and Jetpack Compose, with a focus on bringing app features together in one place.</p>
       <p><sub>Kotlin · Android · Jetpack Compose</sub></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/mirzahardcode/MirzaDev-UniversalAuthCenter">🔐 UniversalAuthCenter</a></h3>
+      <h3><a href="https://github.com/mirzahardcode/MirzaDev-UniversalAuthCenter">UniversalAuthCenter</a></h3>
       <p>An experiment in reusable Android authentication and app-access verification with a lightweight client approach.</p>
       <p><sub>Java · Android · Authentication</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/mirzahardcode/cracking-exam-app">📝 Cracking Exam App</a></h3>
+      <h3><a href="https://github.com/mirzahardcode/cracking-exam-app">Cracking Exam App</a></h3>
       <p>An app project focused on helping students with exam preparation.</p>
       <p><sub>Android · Education</sub></p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/mirzahardcode/AdminCenter-UI">🧩 AdminCenter UI</a></h3>
+      <h3><a href="https://github.com/mirzahardcode/AdminCenter-UI">AdminCenter UI</a></h3>
       <p>A UI-focused project for the admin side of my app ecosystem.</p>
       <p><sub>UI · App tooling</sub></p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img
@@ -104,7 +104,7 @@ These are tools and languages I use or am actively learning — the list is a wo
   />
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img
