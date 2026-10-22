@@ -1,5 +1,3 @@
-<!-- Profile README for github.com/mirzahardcode -->
-
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirzzn&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems&descAlignY=57&descSize=16&animation=fadeIn"
@@ -24,7 +22,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hey, I'm **Mirza** — a student developer from Indonesia who likes figuring out how software works, from the UI people tap to the systems underneath it.
 
@@ -44,7 +42,7 @@ These are tools and languages I use or am actively learning — the list is a wo
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,js,bash&theme=dark" alt="Kotlin, Java, C++, Python, JavaScript, Bash" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,python,js,bash&theme=dark" alt="Kotlin, Java, C++, C, Python, JavaScript, Bash" />
 
 **Android & Backend**
 
@@ -56,7 +54,7 @@ These are tools and languages I use or am actively learning — the list is a wo
 
 </div>
 
-## 🚧 Things I'm Building
+## Things I'm Building
 
 <table>
   <tr>
