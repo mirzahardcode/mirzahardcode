@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirza&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems&descAlignY=57&descSize=16&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirza&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems%20%7C%20AI%20Tinkering&descAlignY=57&descSize=14&animation=fadeIn"
     alt="Mirza profile banner"
     width="100%"
   />
@@ -51,6 +51,13 @@ These are tools and languages I use or am actively learning — the list is a wo
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, VS Code" />
+
+**AI Tinkering**
+
+<a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
+<a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>
+<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
+<a href="https://chat.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
 
 </div>
 
