@@ -24,19 +24,19 @@
 
 ## About Me
 
-Hey, I'm **Mirza** — a student developer from Indonesia who likes figuring out how software works, from the UI people tap to the systems underneath it.
+Hey, I'm **Mirza** — I'm just vibecoder and a student developer from Indonesia who likes figuring out how software works, from the UI people tap to the systems underneath it.
 
-- 📱 Currently building and experimenting with **Android apps**.
-- 🔐 Exploring authentication flows, access control, APIs, and device binding.
-- 🛠️ Interested in Android/Linux internals, developer tooling, and low-level computing.
-- 🧩 Exploring **reverse engineering**, app analysis, and binary inspection.
-- 🛡️ Learning **cybersecurity** and experimenting with security tools in controlled labs.
-- 🧠 Learning **C/C++** and digging deeper into computer architecture and hardware.
-- 🌱 Still learning, still shipping, still collecting bugs like they're achievements.
+- Currently building and experimenting with **Android apps**.
+- Exploring authentication flows, access control, APIs, and device binding.
+- Interested in Android/Linux internals, developer tooling, and low-level computing.
+- Exploring **reverse engineering**, app analysis, and binary inspection.
+- Learning **cybersecurity** and experimenting with security tools in controlled labs.
+- Learning **C/C++** and digging deeper into computer architecture and hardware.
+- Still learning, still shipping, still collecting bugs like they're achievements.
 
 > *Build it, understand it, improve it. Repeat.*
 
-## 🧰 Tech Stack
+## Tech Stack
 
 These are tools and languages I use or am actively learning — the list is a work in progress.
 
