@@ -52,7 +52,7 @@ These are tools and languages I use or am actively learning — the list is a wo
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, VS Code" />
 
-**AI Tinkering**
+**My AI Squad**
 
 <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" /></a>
 <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>
