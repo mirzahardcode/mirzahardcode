@@ -1,16 +1,129 @@
-## Hi there 👋
+<!-- Profile README for github.com/mirzahardcode -->
 
-<!--
-**mirzahardcode/mirzahardcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:38bdf8&height=210&section=header&text=Mirzzn&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Student%20Developer%20%7C%20Android%20%7C%20Systems&descAlignY=57&descSize=16&animation=fadeIn"
+    alt="Mirzzn profile banner"
+    width="100%"
+  />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+apps%2C+breaking+bugs;Learning+how+systems+work+under+the+hood;One+commit+closer+to+figuring+it+out"
+      alt="Typing introduction"
+    />
+  </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=mirzahardcode&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/mirzahardcode?tab=followers">
+    <img src="https://img.shields.io/github/followers/mirzahardcode?style=flat-square&color=0ea5e9&label=Followers" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/mirzahardcode?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-1e293b?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+Hey, I'm **Mirza** — a student developer from Indonesia who likes figuring out how software works, from the UI people tap to the systems underneath it.
+
+- 📱 Currently building and experimenting with **Android apps**.
+- 🔐 Exploring authentication flows, access control, APIs, and device binding.
+- 🛠️ Interested in Android/Linux internals, developer tooling, and low-level computing.
+- 🧠 Learning **C/C++** and digging deeper into computer architecture and hardware.
+- 🌱 Still learning, still shipping, still collecting bugs like they're achievements.
+
+> *Build it, understand it, improve it. Repeat.*
+
+## 🧰 Tech Stack
+
+These are tools and languages I use or am actively learning — the list is a work in progress.
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,cpp,python,js,bash&theme=dark" alt="Kotlin, Java, C++, Python, JavaScript, Bash" />
+
+**Android & Backend**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,nodejs,express&theme=dark" alt="Android Studio, Firebase, Node.js, Express" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vercel,vscode&theme=dark" alt="Git, GitHub, Linux, Vercel, VS Code" />
+
+</div>
+
+## 🚧 Things I'm Building
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mirzahardcode/MirzaDev-OneCenter">📱 MirzaDev OneCenter</a></h3>
+      <p>An Android hub app built with Kotlin and Jetpack Compose, with a focus on bringing app features together in one place.</p>
+      <p><sub>Kotlin · Android · Jetpack Compose</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mirzahardcode/MirzaDev-UniversalAuthCenter">🔐 UniversalAuthCenter</a></h3>
+      <p>An experiment in reusable Android authentication and app-access verification with a lightweight client approach.</p>
+      <p><sub>Java · Android · Authentication</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mirzahardcode/cracking-exam-app">📝 Cracking Exam App</a></h3>
+      <p>An app project focused on helping students with exam preparation.</p>
+      <p><sub>Android · Education</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mirzahardcode/AdminCenter-UI">🧩 AdminCenter UI</a></h3>
+      <p>A UI-focused project for the admin side of my app ecosystem.</p>
+      <p><sub>UI · App tooling</sub></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mirzahardcode&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahardcode&layout=compact&hide_border=true&theme=tokyonight"
+    height="165"
+    alt="Most used languages"
+  />
+  <br />
+  <img
+    src="https://streak-stats.demolab.com?user=mirzahardcode&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+    width="70%"
+  />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mirzahardcode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub profile trophies"
+    width="100%"
+  />
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by. Feel free to explore my repos — feedback and good ideas are always welcome.</i>
+  <br /><br />
+  <a href="https://github.com/mirzahardcode">
+    <img src="https://img.shields.io/badge/GitHub-mirzahardcode-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <br />
+  <sub>Made with Markdown, curiosity, and an unreasonable amount of debugging.</sub>
+</div>
