@@ -29,6 +29,8 @@ Hey, I'm **Mirza** — a student developer from Indonesia who likes figuring out
 - 📱 Currently building and experimenting with **Android apps**.
 - 🔐 Exploring authentication flows, access control, APIs, and device binding.
 - 🛠️ Interested in Android/Linux internals, developer tooling, and low-level computing.
+- 🧩 Exploring **reverse engineering**, app analysis, and binary inspection.
+- 🛡️ Learning **cybersecurity** and experimenting with security tools in controlled labs.
 - 🧠 Learning **C/C++** and digging deeper into computer architecture and hardware.
 - 🌱 Still learning, still shipping, still collecting bugs like they're achievements.
 
@@ -58,6 +60,23 @@ These are tools and languages I use or am actively learning — the list is a wo
 <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" /></a>
 <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /></a>
 <a href="https://chat.deepseek.com"><img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" /></a>
+
+**Reverse Engineering**
+
+<a href="https://github.com/NationalSecurityAgency/ghidra"><img src="https://img.shields.io/badge/Ghidra-B34B25?style=for-the-badge&logoColor=white" alt="Ghidra" /></a>
+<a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-263238?style=for-the-badge&logoColor=white" alt="IDA Pro" /></a>
+<a href="https://github.com/skylot/jadx"><img src="https://img.shields.io/badge/JADX-2874A6?style=for-the-badge&logoColor=white" alt="JADX" /></a>
+<a href="https://mt2.cn/"><img src="https://img.shields.io/badge/MT%20Manager-4C6EF5?style=for-the-badge&logoColor=white" alt="MT Manager" /></a>
+
+**Cybersecurity & Kali Linux**
+
+<a href="https://nmap.org/"><img src="https://img.shields.io/badge/Nmap-4679A4?style=for-the-badge&logoColor=white" alt="Nmap" /></a>
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></a>
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white" alt="Burp Suite" /></a>
+<a href="https://www.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /></a>
+<a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/Hashcat-7D3C98?style=for-the-badge&logoColor=white" alt="Hashcat" /></a>
+<a href="https://github.com/vanhauser-thc/thc-hydra"><img src="https://img.shields.io/badge/Hydra-566573?style=for-the-badge&logoColor=white" alt="Hydra" /></a>
+<a href="https://www.aircrack-ng.org/"><img src="https://img.shields.io/badge/Aircrack--ng-212F3D?style=for-the-badge&logoColor=white" alt="Aircrack-ng" /></a>
 
 </div>
 
